@@ -11,3 +11,4 @@ spec:
   type: rest
   lifecycle: experimental
   definition: >-
+  owner: guest
