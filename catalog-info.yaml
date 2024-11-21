@@ -10,4 +10,4 @@ metadata:
 spec:
   type: rest
   lifecycle: experimental
-  owner: guest
+  definition: >-
