@@ -12,3 +12,4 @@ spec:
   lifecycle: experimental
   definition: >-
   owner: guest
+  system: my-system
