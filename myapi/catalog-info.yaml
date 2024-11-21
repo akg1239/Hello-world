@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: hello-world-api
-  owner: CNCF
+  owner: guest
   description: A simple api which says hello world
   tags:
     - flask
@@ -10,4 +10,4 @@ metadata:
 spec:
   type: rest
   lifecycle: experimental
-  owner: CNCF
+  owner: guest
