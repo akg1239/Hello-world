@@ -10,6 +10,6 @@ metadata:
 spec:
   type: rest
   lifecycle: experimental
-  definition: >-
+  definition: ./myapi
   owner: guest
   system: my-system
