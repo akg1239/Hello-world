@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Api
+metadata:
+  name: Hello-world-api
+  description: A simple api which says hello world
+  owner: Team1
+  tags:
+    - flask
+    - hello-world
+spec:
+  type: rest
+  lifecycle: experimental
+  system: sample-system
